@@ -1,0 +1,28 @@
+.submit{
+  color: white;
+  padding: 12px 100px;
+  border-radius: 10px;
+  border: none;
+}
+.phone{
+  background-color: #06C668;
+  padding: 15px 60px;
+  border-radius: 10px;
+  border: none;
+  display: flex;
+}
+@media (min-width: 600px){
+  .submit{
+    color: white;
+    padding: 12px 140px;
+    border-radius: 10px;
+    border: none;
+  }
+  .phone{
+    background-color: #06C668;
+    padding: 15px 120px;
+    border-radius: 10px;
+    border: none;
+    display: flex;
+  }
+}
